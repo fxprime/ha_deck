@@ -6,7 +6,7 @@
 #include "LGFX.h"
 #include "lvgl.h"
 
-LV_IMG_DECLARE(bg_480x320);
+LV_IMG_DECLARE(coc_bg);
 
 namespace esphome {
 namespace hd_device {
